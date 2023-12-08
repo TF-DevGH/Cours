@@ -5,8 +5,9 @@
    - Identifier l'importance ou la pertinence du sujet.
 
 2. **Exemple mystère :**
-   - Question : Q
+   - Questions : Pourquoi ? Réponse.
    - Mettre en avant l'objectif de l'analyse à venir.
+   - Donner le matériel à installer : https://cmder.app/ | https://nodejs.org/en/download/current | 
 
 3. **Enjeux :**
    - Souligner les implications et conséquences du sujet (expliquer que le header)
