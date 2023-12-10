@@ -7,11 +7,13 @@
 2. **Exemple mystère :**
    - Questions : Pourquoi ? Réponse.
    - Mettre en avant l'objectif de l'analyse à venir.
-   - Donner le matériel à installer : https://cmder.app/ | https://nodejs.org/en/download/current | 
+   - Donner le matériel à installer : https://cmder.app/ | https://nodejs.org/en/download/current | sass/SCSS installer : https://chat.openai.com/c/ea611277-8098-465e-affe-c076bc107e30 |
+
 
 3. **Enjeux :**
-   - Souligner les implications et conséquences du sujet (expliquer que le header)
+   - Souligner les implications et conséquences du sujet (expliquer que le header / body / footer)
    - Expliquer pourquoi le sujet est d'actualité ou crucial.
+   - Exemple : Projet (?) : 
 
 4. **Transition vers le Développement :**
    - Annoncer brièvement les grandes lignes de la discussion à venir.
